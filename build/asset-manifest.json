@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a0ab036.css",
-    "main.js": "/static/js/main.df5c9387.js",
-    "index.html": "/index.html",
-    "main.6a0ab036.css.map": "/static/css/main.6a0ab036.css.map",
-    "main.df5c9387.js.map": "/static/js/main.df5c9387.js.map"
+    "main.css": "/moview-review/static/css/main.6a0ab036.css",
+    "main.js": "/moview-review/static/js/main.f8a42f98.js",
+    "index.html": "/moview-review/index.html",
+    "main.6a0ab036.css.map": "/moview-review/static/css/main.6a0ab036.css.map",
+    "main.f8a42f98.js.map": "/moview-review/static/js/main.f8a42f98.js.map"
   },
   "entrypoints": [
     "static/css/main.6a0ab036.css",
-    "static/js/main.df5c9387.js"
+    "static/js/main.f8a42f98.js"
   ]
 }
